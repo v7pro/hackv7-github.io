@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到OPENHESY
 
-You can use the [editor on GitHub](https://github.com/v7pro/hackv7-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+正在建设中，本项目毫无恶意，只是用于对华二的数据分析，如有问题请再Issues中联系我们
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
